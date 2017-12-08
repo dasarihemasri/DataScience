@@ -1,0 +1,19 @@
+PYTHON:
+   python is a powerful high level,object oriented programming language created by Guido Van Rossum.
+     it has simple easy-to-use syntax,making it the perfect language for someone trying to learn computer programming for the first time
+            Python is a general purpose language. it has wide range of applications from web development. It allows to think about the problem rather than focussing on the syntax
+            
+FEATURES OF PYTHON:
+EASY TO USE
+expressive language
+interpreted language
+free and open source
+extensible
+GUI programming
+
+ADVANTAGES:
+productivity
+integration feature
+extensive support libraries
+
+            
